@@ -79,20 +79,22 @@ button:hover {
    
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 .botao-menu{
 
     width: 60px;
     cursor: pointer;
-    transition: 0,5s;
+    transition: 0.2s ease, 0.2s;
 }
 
 
 .botao-menu:hover {
 
     width:100px; 
-    transform: translateY(-30px);
+    transform: scale(1.1) translateY(-30px);
+    opacity: 0.8;
 }
 
 
