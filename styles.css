@@ -98,7 +98,7 @@ button:hover {
 }
 
 
-.circulo {
+/*.circulo {
 
     position: absolute;
     width: 100%;
@@ -109,9 +109,9 @@ button:hover {
     clip-path: circle(600px at right 800px);
     z-index: -1;
 
-
-
 }
+
+*/
 
 .starbucks {
 
